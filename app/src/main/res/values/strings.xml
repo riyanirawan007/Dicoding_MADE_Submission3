@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kamusku</string>
+    <string name="menu_title_indonesia_english">Indonesia - English</string>
+    <string name="menu_title_english_indonesia">English - Indonesia</string>
+    <string name="menu_title_search">Search</string>
+    <string name="title_activity_main">Kamusku</string>
+    <string name="label_loading">Loading...</string>
+    <string name="label_finished">Finished!</string>
+</resources>
